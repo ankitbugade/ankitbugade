@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/-🔷───────────────────────────────🔷-blue?style=for-the-badge" />
-</p>
-
 # 💫 About Me:
 Hi, I'm Ankit Bugade — a Tech enthusiast passionate about building smart, impactful tools. <br>
 Always excited to learn, experiment, and collaborate on meaningful tech.<br>
@@ -19,7 +15,7 @@ Always excited to learn, experiment, and collaborate on meaningful tech.<br>
 
 ## 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,ts,js,aws,firebase,vercel,bootstrap,chartjs,nextjs,nodejs,react,mysql,mongodb,postgres,figma,pandas,matplotlib,git,github,postman,powerbi,docker" />
+  <img src="https://skillicons.dev/icons?i=cpp,ts,js,aws,firebase,vercel,bootstrap,nextjs,nodejs,react,mysql,mongodb,postgres,figma,pandas,matplotlib,git,github,postman,docker" />
   <br/>
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
@@ -35,7 +31,7 @@ Always excited to learn, experiment, and collaborate on meaningful tech.<br>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-🔷───────────────────────────────🔷-blue?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=2000&center=true&vCenter=true&width=400&lines=Thanks+for+visiting+my+profile!" alt="Closing Typing SVG" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
