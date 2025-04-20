@@ -5,7 +5,7 @@ Always excited to learn, experiment, and collaborate on meaningful tech.<br>
 ---
 
 ## 🌐 Socials:
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/ankit-bugade-a593b0261"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
   <a href="https://x.com/bugade_ankit"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
   <a href="mailto:ankitbugade04@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
@@ -16,9 +16,7 @@ Always excited to learn, experiment, and collaborate on meaningful tech.<br>
 ## 💻 Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,ts,js,aws,firebase,vercel,bootstrap,nextjs,nodejs,react,mysql,mongodb,postgres,figma,pandas,matplotlib,git,github,postman,docker" />
-  <br/>
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  
 </p>
 
 ---
